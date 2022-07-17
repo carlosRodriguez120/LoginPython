@@ -135,10 +135,7 @@ def pantallaInicio():
     Label(pantalla3, text="bienvenido, gracias por iniciar sesion", bg="slate gray", fg="white", width="300",
           height="3", font=("calibri", 12)).pack()
 
-    image1 = PhotoImage(file="gato.gif")
-    image1 = image1.subsample(1, 1)
-    label1 = Label(image=image1)
-    label1.pack()
+  
 
 
 
