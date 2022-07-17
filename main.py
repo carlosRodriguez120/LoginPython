@@ -135,9 +135,5 @@ def pantallaInicio():
     Label(pantalla3, text="bienvenido, gracias por iniciar sesion", bg="slate gray", fg="white", width="300",
           height="3", font=("calibri", 12)).pack()
 
-  
-
-
-
 
 menuPantalla()
